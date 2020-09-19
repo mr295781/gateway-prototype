@@ -1,0 +1,15 @@
+﻿body 
+{ 
+}
+
+.button 
+{
+	background-color: #4CAF50; /* Green */
+	color: white;
+	border-color: #4CAF50; /* Green */
+}
+
+.text-danger 
+{	
+	color:red;
+}
